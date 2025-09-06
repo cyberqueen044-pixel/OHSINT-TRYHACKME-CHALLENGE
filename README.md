@@ -34,4 +34,4 @@ First, I downloaded the image and checked its **metadata (EXIF data)**.
 exiftool image.jpg
 
 
-Screenshot_2025-08-24_13_06_10.png
+![task file](ohsint completed.png)
